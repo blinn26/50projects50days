@@ -2,7 +2,7 @@
 
 :root {
   --line-border-fill: #3498db;
-  --line-border-empty: #383838;
+  --line-border-empty: #e0e0e0;
 
 }
 
@@ -60,7 +60,7 @@ body {
 
 .circle {
   background-color: #1f1f1f;
-  color:#e2e2e2;
+  color: #e2e2e2;
   border-radius: 50%;
   height: 30px;
   width: 30px;
@@ -77,7 +77,7 @@ body {
 
 .btn {
   background-color: var(--line-border-fill);
-  color: #fff;
+  color: #1f1f1f;
   border: 0;
   border-radius: 6px;
   cursor: pointer;
