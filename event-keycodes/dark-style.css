@@ -2,7 +2,7 @@
 
 * {
   box-sizing: border-box;
- 
+
 }
 
 body {
@@ -29,7 +29,7 @@ body {
   flex-direction: column;
   margin: 10px;
   min-width: 150px;
-  color: white;
+  color: #f01a1ad3;
   position: relative;
 }
 
